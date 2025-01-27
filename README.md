@@ -1,4 +1,4 @@
-# dragme-recommendation
+# dragme-recommendation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farazabir/dragme-recommendation/blob/main/dragmerecomendation.ipynb)
 A content-based recommendation system for events using TF-IDF vectorization and approximate nearest neighbors search with Annoy.
 
 ## Features
